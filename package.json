@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "bootstrap-icons": "^1.0.0",
     "netlify-cli": "^2.63.3",
     "package.json": "^2.0.1"
   },
